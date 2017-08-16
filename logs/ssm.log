@@ -1,0 +1,28 @@
+[INFO][2017-07-29 14:04:35][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO][2017-07-29 14:04:35][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@12050f6: startup date [Sat Jul 29 14:04:35 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 14:04:35][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO][2017-07-29 14:04:35][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2017-07-29 14:04:36][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@12050f6: startup date [Sat Jul 29 14:04:35 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 14:43:42][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO][2017-07-29 14:43:43][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@12050f6: startup date [Sat Jul 29 14:43:43 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 14:43:43][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO][2017-07-29 14:43:43][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2017-07-29 14:43:43][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@12050f6: startup date [Sat Jul 29 14:43:43 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 14:48:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO][2017-07-29 14:48:40][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@12050f6: startup date [Sat Jul 29 14:48:40 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 14:48:40][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO][2017-07-29 14:48:40][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2017-07-29 14:48:42][com.core.ssm.service.impl.IUserServiceImplTest]{"resultCode":"success","resultMsg":"查询成功","resultTO":"{\"id\":1,\"name\":\"nimen\",\"password\":\"1234\"}"}
+[INFO][2017-07-29 14:48:42][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@12050f6: startup date [Sat Jul 29 14:48:40 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 14:49:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO][2017-07-29 14:49:26][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@12050f6: startup date [Sat Jul 29 14:49:26 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 14:49:27][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO][2017-07-29 14:49:27][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2017-07-29 14:49:28][com.core.ssm.service.impl.IUserServiceImplTest]{"resultCode":"success","resultMsg":"查询成功","resultTO":{"id":1,"name":"nimen","password":"1234"}}
+[INFO][2017-07-29 14:49:28][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@12050f6: startup date [Sat Jul 29 14:49:26 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 15:31:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO][2017-07-29 15:31:57][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@d3bd8b: startup date [Sat Jul 29 15:31:57 CST 2017]; root of context hierarchy
+[INFO][2017-07-29 15:31:57][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO][2017-07-29 15:31:57][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2017-07-29 15:31:58][com.core.ssm.service.impl.IUserServiceImplTest]{"resultCode":"success","resultMsg":"查询成功","resultTO":{"id":1,"name":"nimen","password":"1234"}}
+[INFO][2017-07-29 15:31:58][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@d3bd8b: startup date [Sat Jul 29 15:31:57 CST 2017]; root of context hierarchy
